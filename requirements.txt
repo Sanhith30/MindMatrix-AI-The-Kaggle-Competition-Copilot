@@ -1,0 +1,5 @@
+google-generativeai
+kaggle
+pandas
+termcolor
+python-dotenv
